@@ -13,7 +13,7 @@ CSS and bootstrap. All the used images have Creative Commons License.
 
 Please look, fork and feedback:
 
-[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />](https://alyconr.github.io/proyecto-final/)
+[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />](https://alyconr.github.io/landing-page/)
 
 
 
