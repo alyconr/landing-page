@@ -113,7 +113,7 @@ h3 {
     115deg,
     rgba(30, 25, 25, 0.8),
     rgba(0, 77, 125, 0.7)
-  ), url('/assets/img/servers.jpg') no-repeat center center ;
+  ), url('../img/servers.jpg') no-repeat center center ;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
