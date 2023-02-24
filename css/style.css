@@ -41,3 +41,16 @@
     text-decoration: none;
     background-color: rgb(27, 26, 26);
 }
+#header-background {
+    padding: 150px 0;
+    max-width: 100%;
+    background-color: rgba(51, 50, 50, 0.986);
+}
+#header-text {
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    line-height: 2.5rem;
+}
